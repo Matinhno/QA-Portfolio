@@ -1,11 +1,5 @@
 # 🚀 Портфолио QA Engineer (Инженер по тестированию)
 
-<p align="left">
-  <a href="https://t.me/your_telegram_username"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20offers-brightgreen?style=for-the-badge" alt="Status"/>
-</p>
-
 Привет! Меня зовут **Антон**. Я QA-инженер. В этом репозитории представлены мои учебные и практические проекты, выполненные в рамках курса **«Инженер по тестированию» от Яндекс Практикума**. Все файлы и артефакты проектов прикреплены к репозиторию.
 
 ---
